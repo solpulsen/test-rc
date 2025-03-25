@@ -55,9 +55,8 @@ Create a web application that displays power outages on a map in real-time. The 
 * Unit tests
 
 ### Frontend
-* React (with hooks)
+* React
 * TypeScript (preferred but optional)
-* React Router for navigation
 * A mapping library (Leaflet, Google Maps, or MapBox)
 * CSS framework of your choice (or custom styling)
 * Error boundary implementation
